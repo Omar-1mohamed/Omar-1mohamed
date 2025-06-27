@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Omar Mohamed
 
-<!--
-**Omar-1mohamed/Omar-1mohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year BIS Student at Helwan University  
+📊 Aspiring Data Analyst | Excel • SQL • Power BI  
+📚 Currently learning from: Google, Microsoft, AMIT, ITI & NTI  
+📈 Passionate about transforming data into insights  
+🌍 Based in Egypt | Open to internships and remote work  
+🔗 [LinkedIn Profile](www.linkedin.com/in/omar-mohamed-050894285)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Skills:
+- Excel • Power BI • SQL • Google Sheets
+- Problem Solving • Critical Thinking
+- Currently exploring: Python & Tableau
+
+---
+
+### 📌 Projects Coming Soon:
+I'll be sharing some real data analysis projects and dashboards very soon. Stay tuned!

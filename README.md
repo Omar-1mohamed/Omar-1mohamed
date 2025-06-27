@@ -5,7 +5,7 @@
 📚 Currently learning from: Google, Microsoft, AMIT, ITI & NTI  
 📈 Passionate about transforming data into insights  
 🌍 Based in Egypt | Open to internships and remote work  
-🔗 [LinkedIn Profile](www.linkedin.com/in/omar-mohamed-050894285)
+🔗 [LinkedIn Profile](omar-mohamed-050894285)
 
 ---
 

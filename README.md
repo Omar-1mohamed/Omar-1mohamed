@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Omar Mohamed
 
 🎓 Final-year BIS Student at Helwan University  
-📊 Aspiring Data Analyst | Excel • SQL • Power BI  
+📊 Aspiring Data Analyst | Excel • Power Query  • Power BI          
 🧠 Passionate about transforming raw data into meaningful insights  
 🌍 Based in Egypt | Open to internships & remote opportunities  
 
@@ -10,11 +10,10 @@
 ---
 
 ## 🛠️ Tools & Skills:
-- Excel • Power Query • Power BI • SQL • Google Sheets  
+- Excel • Power Query • Power Pivot •  Power BI • Google Sheets 
 - Data Cleaning • Data Modeling • Dashboarding  
 - Problem Solving • Critical Thinking  
-- Currently exploring: Python • Tableau • Odoo ERP
-
+- Currently exploring: SQL • Tableau • Python
 ---
 
 ## 📁 My Projects
@@ -26,7 +25,7 @@ Check out my project folder here:
 ---
 
 ## 🚀 Latest Project:  
-### 🧾 Sales Dashboard with Excel + Power Query  
+### 🧾 Sales Dashboard with Excel + Power Query  + Power Pivot
 - Cleaned and modeled sales data  
 - Built KPIs: Total Sales, Net Sales, COGS, Discounts, Returns  
 - Used slicers and charts to visualize performance by region, category, and time  
@@ -36,9 +35,10 @@ Check out my project folder here:
 
 ## 🧠 Currently Learning:
 - DAX & Power BI Advanced Techniques  
-- Data Visualization Best Practices  
-- ERP Systems (Odoo)  
-- Software Testing Fundamentals (Manual & Automation)
+- Data Visualization Best Practices
+- Tableau
+- SQL
+- Python 
 
 ---
 
